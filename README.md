@@ -29,5 +29,5 @@ If you have something quick and easy, just ping me on Twitter. 140 characters ma
 If you'd like to create your own AMA repository:
 
 - Click `Fork` at the top of this page
-- Edit the README.md (make sure to change the name and links and all that)
+- Edit the `README.md` (make sure to change the name and links and all that)
 - Enable issues on your repository (they're in your fork's Settings page).
