@@ -21,3 +21,13 @@ Check out the [closed issues](https://github.com/salvatorecordiano/ama/issues?so
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters makes everyone more efficient. I'm [@parallelit](https://twitter.com/parallelit) on Twitter.
+
+---
+
+### Forking
+
+If you'd like to create your own AMA repository:
+
+- Click `Fork` at the top of this page
+- Edit the README.md (make sure to change the name and links and all that)
+- Enable issues on your repository (they're in your fork's Settings page).
